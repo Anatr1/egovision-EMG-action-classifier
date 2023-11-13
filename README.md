@@ -1,4 +1,7 @@
-# Project Code for AML 2022 @ Politecnico di Torino
+# Multimodal Egovision Action Classifier
+Classify actions performed by users through first person videos and electromyography data from EMG sensors applied on user's arms.
+
+### Project Code for AML 2022 @ Politecnico di Torino
 
 ## Team members
 - [Giuseppe Atanasio](s300733@studenti.polito.it)
