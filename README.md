@@ -2,6 +2,7 @@
 Classify actions performed by users through first person videos and electromyography data from EMG sensors applied on user's arms.
 
 ### Project Code for AML 2022 @ Politecnico di Torino
+### [Paper available](./Attanasio-Mustich-Sorrentino-Egovision-Action-Classifier.pdf)
 
 ## Team members
 - [Giuseppe Atanasio](s300733@studenti.polito.it)
